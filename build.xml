@@ -264,6 +264,7 @@
                 <file name="src/LoadingLayer.js"/>
                 <file name="src/GameMenuScene.js"/>
                 <file name="src/publicVersion.js"/>
+                <file name="src/HTTP.js"/>
                 <file name="main.js"/>
 
             </sources>
