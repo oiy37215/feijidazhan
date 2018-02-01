@@ -161,7 +161,7 @@
             },
             "Position": {
               "X": 250.021,
-              "Y": 310.7711
+              "Y": 313.771
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -174,16 +174,16 @@
             "IconVisible": false,
             "PrePosition": {
               "X": 0.4883,
-              "Y": 0.4046
+              "Y": 0.4086
             },
             "PreSize": {
               "X": 0.5664,
               "Y": 0.0651
             },
             "LeftMargin": 105.021,
-            "RightMargin": 116.979,
-            "TopMargin": 432.2289,
-            "BottomMargin": 285.7711,
+            "RightMargin": 116.9791,
+            "TopMargin": 429.229,
+            "BottomMargin": 288.771,
             "Tag": 5,
             "ActionTag": -303336106,
             "Size": {
@@ -195,7 +195,7 @@
           },
           {
             "FontSize": 24,
-            "ButtonText": "开始游戏",
+            "ButtonText": "登录游戏",
             "TextColor": {
               "R": 65,
               "G": 65,
